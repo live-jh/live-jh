@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=live-jh&fontSize=90)
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=E45D4C&height=200&section=header&text=live-jh&fontSize=60&fontColor=ffffff&&fontAlign=70&&fontAlignY=25&rotate=13&animation=twinkling)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flive-jh&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
